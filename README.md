@@ -4,9 +4,9 @@ The most advanced Instagram Downloader Bot.
 ```
 Please fork this repository don't import code
 Made with Python3
-(C) @subinps
+(C) @maxim
 Copyright permission under MIT License
-License -> https://github.com/subinps/Instagram-Bot/blob/main/LICENSE
+License -> https://github.com/Maxim3userbot/Instagram-Bot/blob/main/LICENSE
 ```
 
 
@@ -109,7 +109,7 @@ Fork the repo, Do not Import code.
 
 #### Support
 
-Connect Me On [Telegram](https://telegram.dog/subinps_bot)
+Connect Me On [Telegram](https://telegram.dog/Kelly4ubot)
 
 
 ```
